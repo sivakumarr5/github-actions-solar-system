@@ -4,7 +4,6 @@ metadata:
   labels:
     app: solar-system
   name: solar-system
-  namespace: _{_NAMESPACE_}_
 spec:
   ports:
   - port: 3000
