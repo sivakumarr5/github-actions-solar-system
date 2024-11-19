@@ -15,6 +15,7 @@ spec:
     metadata:
       labels:
         app: solar-system
+        tier: frontend
     spec:
       containers:
       - image: _{_IMAGE_}_
